@@ -1,4 +1,4 @@
-# Perfil de Usuario - Proyecto Individual
+# Perfil de Usuario - Proyecto Grupal
 
 ## Descripción
 Plantilla web para un perfil de usuario, creada con HTML y CSS. Incluye nombre, correo, banner, imagen de perfil circular, cédula y descripción. Es responsiva, accesible y visualmente atractiva.
@@ -34,4 +34,5 @@ Plantilla web para un perfil de usuario, creada con HTML y CSS. Incluye nombre, 
 - Validado con W3C HTML/CSS Validators.
 
 ## Autor
+
 [Tu Nombre]
